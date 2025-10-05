@@ -1,1 +1,1 @@
-(./brian-moser.gif)
+![](./brian-moser.gif)
